@@ -16,3 +16,19 @@ a{
   line-height: 1;
   cursor:pointer
 }
+.container
+{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.btn
+{
+  background: #ffff;
+  color:#212121;
+  font-size: 16px;
+  padding:16px 25px;
+  border-radius: 30px;
+  cursor: pointer;
+  outline: 0;
+  border: 0;
+}
