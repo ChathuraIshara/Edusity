@@ -39,3 +39,8 @@ a{
   width:20px;
   margin-left: 10px;
 }
+.btn.darkbtn
+{
+  background-color: #212EA0;
+  color:#ffff;
+}
