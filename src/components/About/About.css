@@ -44,3 +44,20 @@
     margin-bottom: 15px;
     color:#676767;
 }
+
+@media(max-width:800px)
+{
+    .about{
+        flex-direction: column;
+    }
+
+    .aboutleft{
+        flex-basis: 100%;
+        margin:20px;
+        order:2
+    }
+    .aboutright{
+        flex-basis: 100%;
+        margin:20px
+    }
+}

@@ -13,3 +13,17 @@
     margin-left: 20px;
     list-style: none;
 }
+
+@media(max-width:600px)
+{
+    .footer{
+        display: block;
+        text-align: center;
+    }
+    .footer ul{
+        margin-top:10px;
+    }
+    .footer ul li{
+        margin:10px;
+    }
+}

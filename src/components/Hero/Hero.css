@@ -28,3 +28,25 @@
     margin: 10px auto 20px;
     line-height: 1.4;
 }
+
+@media(max-width:850px)
+{
+    .herotext h1{
+        font-size: 40px;
+        max-width: 400px;
+        margin:auto
+    }
+}
+@media(max-width:650px)
+{
+    .herotext h1{
+        font-size: 30px;
+        max-width: 400px;
+        margin:auto;
+    }
+
+    .herotext p{
+        font-size: 14px;
+        margin:15px auto 30px;
+    }
+}
